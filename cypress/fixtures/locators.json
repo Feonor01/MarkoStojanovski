@@ -1,0 +1,29 @@
+{
+    "login" : {
+        "navigationLogin" : "a[href='/login']",
+        "email" : "[type='text']",
+        "password" : ".form-control.mt-3",
+        "submit" : ".btn"
+    },
+    "createProfesor" : {
+        "create" : "#navbardrop",
+        "create2" : "[href='/create-professor']",
+        "firstName" : "#firstName",
+        "lastName" : "#lastName",
+        "image" : ".mb-2 > .btn",
+        "imageUrl" : ".form-control",
+        "button" : "[name='submit']"
+    },
+    "createGradebook" : {
+        "createGrad" : "[href='/create-gradebook']",
+        "titleGradebook" : "#title",
+        "profesforGradebook" : "#professor",
+        "button" : ".btn.btn-primary"
+    },
+    "createStudent" : {
+        "myGradbook" : " ul:nth-of-type(1) > a:nth-of-type(1)",
+        "addStudent" : ":nth-child(1) > .btn",
+        "profesforGradebook" : "",
+        "button" : ".btn.btn-primary"
+    }
+}

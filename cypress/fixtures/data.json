@@ -1,0 +1,20 @@
+{
+
+    "login": {
+        "email" : "marko_stojanovski@ymail.com",
+        "dataPassword" : "12345678",
+        "confirmPass" : "mare124",
+        "emailWithout@" : "markogmail.com"
+    },
+    "create": {
+        "firstName" : "Mare9",
+        "lastName" : "stoj9",
+        "url" : "https://cdn.pixabay.com/photo/2015/09/09/16/05/forest-931706_960_720.jpg",
+        "firstNameWithOneLetter" : "aa"
+    },
+    "createGradebook": {
+        "gradebookTitle" : "Marko Gradebook",
+        "gradebookProfesor" : "Marko Stojanovski"
+    }
+
+}
